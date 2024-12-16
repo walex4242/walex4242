@@ -1,68 +1,92 @@
-# GitHub Profile README
+# 💡 Olawale Olafisoye | Software Developer
 
-Welcome to my GitHub profile! I am a passionate developer with expertise in various domains, ranging from e-commerce systems to virtual reality (VR) plugins. My journey has been driven by curiosity, creativity, and a commitment to building impactful solutions. Below is an overview of my work and accomplishments.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Olawale%20Olafisoye&textBG=black&fontColor=ffffff&fontSize=70&animation=fadeIn" width="100%"/>
+</p>
+
+## 👨‍💻 About Me
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7F7&width=435&lines=Innovative+Software+Developer;AI+%26+Cloud+Architect;E-commerce+System+Specialist;Virtual+Reality+Plugin+Creator" alt="Typing SVG" />
+</p>
+
+### 🚀 Professional Essence
+- 🧠 Software Development Virtuoso
+- 🎓 Computer Science Explorer
+- 💻 Technology Innovator
+- 🌐 Transforming Complex Challenges into Elegant Solutions
+
+## 🛠 Technology Constellation
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,express,mongodb,git,docker&perline=4" alt="Tech Skills"/>
+</p>
+
+### 🔬 Specialized Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <strong>Backend Development</strong>
+      <br>
+      <img src="https://img.shields.io/badge/Node.js-Expert-green?style=for-the-badge&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Express.js-Advanced-orange?style=for-the-badge&logo=express&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-Database%20Expert-green?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    </td>
+    <td align="center">
+      <strong>Frontend Development</strong>
+      <br>
+      <img src="https://img.shields.io/badge/React-Dynamic%20Interfaces-blue?style=for-the-badge&logo=react&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Next.js-Professional-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+## 📊 GitHub Performance Metrics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olawaleolafisoye&theme=radical" alt="GitHub Profile Summary"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=olawaleolafisoye&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olawaleolafisoye&layout=compact&theme=radical" alt="Most Used Languages"/>
+</p>
+
+## 🏆 Achievement Constellation
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=olawaleolafisoye&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+</p>
+
+## 🔥 Contribution Dynamics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=olawaleolafisoye&theme=radical" alt="Contribution Streak"/>
+</p>
+
+## 🌐 Digital Pathways
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/olawaleolafisoye" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:olawaleolafisoye@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Direct%20Connection-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
+</p>
 
 ---
 
-## 🛒 Supermarket Management System
+<p align="center">
+  <strong>🌟 Bridging Innovation and Technology 🚀</strong>
+</p>
 
-### Highlights:
-- **Secure Authentication**: Implemented JWT-based login with cookie session management.
-- **Dynamic Item Management**: Designed systems for adding, updating, and categorizing items with real-time validation.
-- **Role-based Access Control**: Built middleware to validate permissions for categories and supermarkets.
-- **Responsive Interfaces**: Optimized UI/UX for components like ItemCard and CartItem.
-
----
-
-## 🔒 Authentication & User Management
-
-- Built a user-friendly profile page with inline editing for fields such as address and profile picture.
-- Developed authentication flows with conditional rendering for headers and navigation.
-- Enhanced user experience with logout functionality and mobile-responsive design.
-
----
-
-## 🎓 School Management System
-
-### Features:
-- **Lesson Creation**: Enabled admins and teachers to create structured lessons under subjects.
-- **Content Navigation**: Designed seamless navigation for students to view lesson pages.
-- **Flexible User Roles**: Supported unique use cases like adult students without guardians.
-
----
-
-## ♟️ VR Chess Plugin
-
-- Transforming 2D chess websites into immersive 3D VR environments.
-- Focused on intuitive interactions using VR controllers.
-- Projected to complete within a one-month timeline of 120 hours.
-
----
-
-## 💰 Donation System
-
-- Created secure transaction flows using unique `tx_ref` identifiers with `uuidv4()`.
-- Designed frontend-friendly solutions for handling date formatting.
-
----
-
-## 🏆 Key Achievements
-
-1. **Type and Schema Management**: Resolved mismatched type issues and standardized schemas.
-2. **Responsiveness**: Ensured compatibility and usability across devices for all projects.
-3. **Middleware Development**: Streamlined access control and ownership validation.
-
----
-
-## 🚀 Future Plans
-
-- Finalize the VR chess plugin with enhanced visualization and interactivity.
-- Expand the school management system with advanced admin features.
-- Enhance the scalability of the supermarket management system.
-
----
-
-## 🌟 Conclusion
-
-I am dedicated to creating innovative and robust solutions that solve real-world problems. Each project showcases my commitment to quality, scalability, and user-centric design. Let's build something amazing together!
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=olawaleolafisoye&color=blueviolet" alt="Profile Views"/>
+</p>
 
