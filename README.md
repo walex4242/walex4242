@@ -45,24 +45,24 @@
 ## 📊 GitHub Performance Metrics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olawaleolafisoye&theme=radical" alt="GitHub Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=walex4242&theme=radical" alt="GitHub Profile Summary"/>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=olawaleolafisoye&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olawaleolafisoye&layout=compact&theme=radical" alt="Most Used Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=walex4242&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walex4242&layout=compact&theme=radical" alt="Most Used Languages"/>
 </p>
 
 ## 🏆 Achievement Constellation
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=olawaleolafisoye&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=walex4242&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
 ## 🔥 Contribution Dynamics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=olawaleolafisoye&theme=radical" alt="Contribution Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=walex4242&theme=radical" alt="Contribution Streak"/>
 </p>
 
 ## 🌐 Digital Pathways
@@ -71,7 +71,7 @@
   <a href="https://www.linkedin.com/in/olawaleolafisoye" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:olawaleolafisoye@gmail.com">
+  <a href="mailto:walex.world20@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-Direct%20Connection-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -87,6 +87,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=olawaleolafisoye&color=blueviolet" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=walex4242&color=blueviolet" alt="Profile Views"/>
 </p>
 
